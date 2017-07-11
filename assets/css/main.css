@@ -2839,6 +2839,9 @@
 				.main .container:before {
 					display: none;
 				}
+		.image {
+			display: none;
+		}
 
 		/* Header */
 
