@@ -2991,7 +2991,9 @@
 					display: none;
 				}
 				
-				
+				#header .container{
+				left:40%;
+			}				
 				
 		/* Button */
 
