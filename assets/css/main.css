@@ -25,6 +25,10 @@
 	body {
 		line-height: 1;
 	}
+	.img-circle {
+			border-radius: 50%;
+		    }
+
 
 	ol, ul {
 		list-style: none;
@@ -2986,10 +2990,7 @@
 				}
 				
 				
-				.img-circle {
-								border-radius: 50%;
-							}
-
+				
 		/* Button */
 
 			input[type="submit"],
