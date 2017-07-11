@@ -2874,6 +2874,9 @@
 	@media screen and (max-width: 736px) {
 
 		/* Basic */
+			#header .container{
+				display : none;
+			}
 
 			h2 {
 				font-size: 1.35em;
@@ -2916,8 +2919,7 @@
 					}
 
 				
-			
-				
+		
 		/* Footer */
 
 			#footer .container {
@@ -3008,9 +3010,7 @@
 				.button.icon {
 					padding-left: 0;
 				}
-			#header .container{
-				left:40%;
-			}
+
 		/* Main */
 
 			.main .container {
